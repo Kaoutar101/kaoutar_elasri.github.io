@@ -1,0 +1,5 @@
+email: jkl@gmail.com password: jkljkl
+email: ght@gmail.com password: ghtght
+email: kaoutar@gmail.com password: kaoutar123
+email:manager@gmail.com password:manager2024
+email: TRY password: UYT
