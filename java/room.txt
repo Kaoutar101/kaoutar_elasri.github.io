@@ -1,4 +1,0 @@
-floor_num: 1 room_num: 209 room_size: double booked: true
-floor_num: 2 room_num: 210 room_size: double booked: false
-floor_num: 2 room_num: 220 room_size: double booked: true
-floor_num: 3 room_num: 310 room_size: suite booked: false

@@ -1,3 +1,0 @@
-first_name: jkh last_name: hjkl age: 19 email_address: TRY address_information: drtyu room_num: 220
-first_name: Kaouatr last_name: elas age: 34 email_address: TRY address_information: POIUJ room_num: 220
-first_name: TITISS last_name: ELAS age: 24 email_address: TRY address_information: POIUY room_num: 209
